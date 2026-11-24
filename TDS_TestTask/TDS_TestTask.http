@@ -1,0 +1,6 @@
+@TDS_TestTask_HostAddress = http://localhost:5020
+
+GET {{TDS_TestTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
